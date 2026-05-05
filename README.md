@@ -1,162 +1,162 @@
-# Abhijit Gaikwad
-
 <div align="center">
 
-**Full-Stack Developer | React & Next.js Enthusiast | Building Web Solutions**
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║           ABHIJIT SHIVRAM GAIKWAD                        ║
+║           Full-Stack Developer · Problem Solver          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijitgaikwad)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abhijitgaikwad)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhijitgaikwad22@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://abhijitgaikwad.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Next.js+Enthusiast;Building+Products+People+Actually+Use;UX+Quality+%2B+Performance+First)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-gaikwad-881b94268)
+[![Twitter/X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GaikwadAbhijit_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://abhijitgaikwad22.github.io/PORTFOLIO/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanatani_abhijit_gaikwad_1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijitgaikwad22@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=abhijitgaikwad22&label=Profile%20Views&color=00d9ff&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a passionate full-stack developer focused on creating intuitive, responsive web applications. With expertise in modern JavaScript frameworks and a keen eye for user experience, I transform ideas into functional, elegant solutions. Currently exploring advanced React patterns and cloud deployment strategies.
+I'm a full-stack developer who operates equally at home in a React component tree and an Express.js API layer — with a consistent throughline: every technical decision I make is filtered through the lens of the end user. I build applications where performance isn't an afterthought and UX isn't decorative — from optimizing render cycles and API response times to crafting interfaces that feel effortless to navigate.
 
-**What I'm focused on:**
-- 🎯 Building scalable full-stack applications with React and Next.js
-- 🧠 Mastering modern web architecture and performance optimization
-- 🚀 Creating engaging user experiences with clean, maintainable code
-- 📚 Continuous learning in the ever-evolving web development landscape
+What sets my approach apart is that I don't compartmentalize. I carry context from database schema through to pixel-level detail, which means fewer handoff gaps, faster debugging, and products that are coherent end-to-end. Currently pursuing my first full-time engineering role, I'm looking for a team that values both shipping and thinking — where strong opinions are held loosely and good work speaks clearly.
 
----
-
-## 🛠️ Technical Skills
-
-### Frontend Development
-- **Frameworks & Libraries**: React, Next.js, Vue.js
-- **Styling**: HTML5, CSS3, Tailwind CSS, Styled Components, SCSS
-- **State Management**: Redux, Context API, Zustand
-- **Tools**: Webpack, Vite, npm, yarn
-
-### Backend Development
-- **Runtime**: Node.js, Express.js
-- **Databases**: MongoDB, PostgreSQL, Firebase
-- **APIs**: RESTful API Design, GraphQL (Learning)
-- **Authentication**: JWT, OAuth, Session Management
-
-### Developer Tools & Platforms
-- **Version Control**: Git, GitHub
-- **Deployment**: Vercel, Netlify, Heroku
-- **Development Environment**: VS Code, Chrome DevTools
-- **Testing**: Jest, React Testing Library (Basics)
-
-### Additional Skills
-- Responsive Web Design
-- SEO Optimization
-- Web Performance Analysis
-- Problem Solving & Algorithm Design
+```javascript
+const abhijit = {
+  role        : "Full-Stack Developer",
+  location    : "Maharashtra, India 🇮🇳",
+  focus       : ["React", "Next.js", "Node.js", "Python/Flask"],
+  values      : ["UX Quality", "Performance", "Clean Architecture"],
+  currentGoal : "Landing my first full-time engineering role",
+  funFact     : "I built a bilingual (English + Marathi) smart agriculture app 🌱"
+};
+```
 
 ---
 
-## 💼 Featured Projects
+## 🛠️ Tech Stack
 
-### 1. **E-Commerce Platform** 
-A full-featured e-commerce solution built with React and Node.js
+<div align="center">
 
-- **Tech Stack**: React, Next.js, Express.js, MongoDB, Stripe API
-- **Highlights**: 
-  - Dynamic product filtering and search
-  - Secure payment integration
-  - User authentication and order management
-  - Responsive design across all devices
-- **GitHub**: [View Repository](https://github.com/abhijitgaikwad22/ecommerce-platform)
-- **Live Demo**: [abhijit-ecom.vercel.app](https://abhijit-ecom.vercel.app)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 2. **Task Management Application**
-A collaborative task management tool with real-time updates
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- **Tech Stack**: React, Firebase, Tailwind CSS, React Router
-- **Highlights**:
-  - Real-time task synchronization across users
-  - Drag-and-drop interface for organization
-  - Priority levels and due date tracking
-  - Dark mode support
-- **GitHub**: [View Repository](https://github.com/abhijitgaikwad22/task-manager)
-- **Live Demo**: [task-manager-app.vercel.app](https://task-manager-app.vercel.app)
-
----
-
-### 3. **Weather Dashboard**
-An interactive weather application with location-based forecasts
-
-- **Tech Stack**: React, OpenWeather API, Axios, Chart.js
-- **Highlights**:
-  - Real-time weather data fetching
-  - 7-day forecast visualization
-  - Geolocation-based suggestions
-  - Beautiful data visualizations
-- **GitHub**: [View Repository](https://github.com/abhijitgaikwad22/weather-dashboard)
-- **Live Demo**: [weather-dashboard-app.vercel.app](https://weather-dashboard-app.vercel.app)
+</div>
 
 ---
 
-### 4. **Portfolio Website**
-A modern, responsive personal portfolio showcasing projects and skills
+## 🚀 Featured Projects
 
-- **Tech Stack**: Next.js, Tailwind CSS, Framer Motion, Nodemailer
-- **Highlights**:
-  - Smooth scroll animations
-  - Contact form integration
-  - SEO optimized
-  - Dark/Light theme toggle
-- **GitHub**: [View Repository](https://github.com/abhijitgaikwad22/portfolio)
-- **Live Demo**: [abhijitgaikwad.dev](https://abhijitgaikwad.dev)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🤖 TalentFlow AI
+> AI-powered talent management & recruitment platform
 
-## 📊 GitHub Statistics
+**What it does:** Streamlines the hiring pipeline using intelligent automation — from candidate screening to workflow management — reducing manual effort and improving hiring quality.
 
-![Abhijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijitgaikwad22&show_icons=true&theme=dark&hide_border=true&count_private=true)
+**Stack:**
+`React` `Next.js` `Node.js` `AI/ML Integration`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitgaikwad22&layout=compact&theme=dark&hide_border=true)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhijitgaikwad22/TalentFlow-AI)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhijitgaikwad22&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</td>
+<td width="50%" valign="top">
 
----
+### 🌱 Smart Greenhouse App
+> Flask-based smart agriculture monitoring system
 
-## 🎓 Education & Certifications
+**What it does:** Lets users analyze greenhouse conditions (temperature, humidity, soil moisture, light) against Maharashtra-specific crop rules — with bilingual English + Marathi output, PDF/CSV export, and a full analytics dashboard.
 
-- **Bachelor of Technology** in Information Technology (In Progress)
-- **Professional Certifications**:
-  - The Complete JavaScript Course 2024 - Udemy
-  - React - The Complete Guide - Udemy
-  - Responsive Web Design - FreeCodeCamp
-- **Continuous Learning**: Regular participation in coding challenges and tech communities
+**Stack:**
+`Python` `Flask` `pandas` `matplotlib` `reportlab`
 
----
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhijitgaikwad22/smart_greenhouse_app)
 
-## 🌟 What Drives Me
+</td>
+</tr>
+</table>
 
-I believe in writing clean, maintainable code and creating applications that solve real problems. I'm passionate about:
-- Staying updated with the latest web technologies
-- Contributing to open-source projects
-- Mentoring junior developers
-- Sharing knowledge through blogs and discussions
+> 🔧 **More projects coming soon** — actively building and deploying new work. Watch this space.
 
 ---
 
-## 📬 Get In Touch
+## 📊 GitHub Stats
 
-I'm always excited to discuss projects, collaborations, or just talk about web development!
+<div align="center">
 
-- **Email**: abhijitgaikwad22@gmail.com
-- **LinkedIn**: [linkedin.com/in/abhijitgaikwad](https://linkedin.com/in/abhijitgaikwad)
-- **Twitter**: [@abhijitgaikwad](https://twitter.com/abhijitgaikwad)
-- **Portfolio**: [abhijitgaikwad.dev](https://abhijitgaikwad.dev)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijitgaikwad22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitgaikwad22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhijitgaikwad22&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎓 Education & Learning
+
+- 🏫 **B.Tech / B.E. in Information Technology** *(In Progress)* — Maharashtra, India
+- 📜 **Certifications:**
+  - The Complete JavaScript Course — Udemy
+  - React: The Complete Guide — Udemy
+  - Responsive Web Design — freeCodeCamp
+- 🧠 **Currently Exploring:** Advanced React patterns · REST API design · System design fundamentals
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm actively looking for my first full-time engineering role. If you're building something meaningful — or just want to talk tech — reach out.
+
+**abhijitgaikwad22@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-gaikwad-881b94268)
+[![Portfolio](https://img.shields.io/badge/See_my_work-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://abhijitgaikwad22.github.io/PORTFOLIO/)
+
+</div>
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Abhijit Gaikwad**
+*"Ship with intention. Build with empathy. Always be learning."*
 
-*Last Updated: May 2026*
+**— Abhijit Shivram Gaikwad**
 
 </div>
